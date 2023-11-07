@@ -1,4 +1,4 @@
-# Smart-Health
+# Vision S
 1 .Enhanced Vision for the Blind: Our application uses image processing to offer audio descriptions of objects, enabling blind individuals to navigate their surroundings confidently.
 
 2. Empowering the Mute: For those who cannot speak, our platform provides speech-to-text and text-to-speech features for seamless communication. Additionally, it detects nearby sounds and notifies users, enhancing situational awareness.
